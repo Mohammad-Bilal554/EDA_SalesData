@@ -1,6 +1,6 @@
-# Sales Data Analysis Summary 📊
+# Sales Data Analysis Summary �
 
-This repository contains an analysis of sales data performed in a **Jupyter Notebook** (`task7_sales_summary.ipynb`) and summarized through five key visualizations.
+This repository contains an analysis of sales data performed in a **Jupyter Notebook** and summarized through five key visualizations.
 
 ## **Visualizations**
 
